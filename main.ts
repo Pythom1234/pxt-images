@@ -1,5 +1,3 @@
-//% block="Custom Images" color=#000000
+//% block="Custom Images" color=#188634
 namespace customImages {
-    //% block="asd"
-    export function asd(): void {}
 }
