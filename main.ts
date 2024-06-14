@@ -1,3 +1,5 @@
-//% block="Custom Images" color=#188634
-namespace customImages {
+//% color=#188634
+namespace imageio {
+    //% block
+    export function a(): void {}
 }
