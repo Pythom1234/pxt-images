@@ -19,5 +19,10 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "tsprj",
+    "extension": {
+        "label": "Configure",
+        "url": "https://pythom1234.github.io/pxt-images/configure/index.html",
+        "localUrl": "http://localhost:8000/configure/index.html"
+    }
 }
